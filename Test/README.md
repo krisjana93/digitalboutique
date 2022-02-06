@@ -12,5 +12,8 @@ Steps to install and test
 - php bin/magento setup:upgrade
 - php bin/magento setup:di:compile
 
+Front-end Route is under: .../digital-boutique/test/
+
 DB 
 - Custom table name is : digitalboutique_prodsku
+
