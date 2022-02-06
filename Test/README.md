@@ -6,7 +6,7 @@ Steps to install and test
 3. Put main folder into app/code so that the structure has to be like above:
             app/code/DigitalBoutique/Test
 
-![Screenshot](/Users/krisjanamaneshi/Desktop/Screenshot 2022-02-06 at 11.39.26 PM.png)
+
 
 4. Run above commands:
 - php bin/magento setup:upgrade
